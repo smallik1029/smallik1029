@@ -41,7 +41,7 @@
 [![Windows](https://img.shields.io/badge/Windows-222021?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMjBiMmFhIj4KPHBhdGggZD0iTTAgMy40NDlMOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPgo8L3N2Zz4K)](#) [![macOS](https://img.shields.io/badge/macOS-222021?logo=apple&logoColor=lightseagreen)](#) [![Linux](https://img.shields.io/badge/Linux-222021?logo=linux&logoColor=lightseagreen)](#) 
 <hr width="100%">
 
-#### additional info
+#### contact/connect with me here!
 [linkedin](https://linkedin.com/in/sameer-mallik-a802b8295/) 
 
 [sameermallik.com](https://sameermallik.com)
