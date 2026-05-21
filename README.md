@@ -1,6 +1,6 @@
 <div align="center">
   
-# hello!! i'm Sameer! welcome to my GitHub profile!
+# hello and welcome! i'm *sameer* (sam works too)!
 
 <table>
 <tr>
