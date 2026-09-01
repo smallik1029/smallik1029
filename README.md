@@ -1,6 +1,6 @@
 <div align="center">
   
-# hello and welcome! i'm *sameer* (sam works too)!
+# hello and welcome! i'm sam.
 
 <table>
 <tr>
@@ -8,8 +8,7 @@
   
 #### who am i
 ###### american/indian born and raised in chicago
-###### cs student at northeastern university
-###### concentration in artificial intellignece
+###### cs + finance student at northeastern university
 ###### current 3rd year (c.o. 2028)
 ###### based in boston ma, though open to relocation  
 --------------------------------------------------------------
@@ -18,10 +17,6 @@
 ###### consumer tools
 ###### other programs of various complexity
 ###### coding agents (i.e. claude code & cursor)
---------------------------------------------------------------
-#### what am i looking for
-###### any and all co-op and internship opportunities related to SWE, robotics, cybersecurity
-###### connections in industry -> connect with me via linkedin!! :)
 
 </td>
 <td valign="middle" width="50%" align="center">
